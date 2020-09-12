@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+</p>
+  
 Hi there 
 # I'm a self-motivated computer science engineer with a keen interest in coding.
 
 # Personal website:- https://anmolnoor.github.io/website/
 
 # - 🔭 I’m currently working at
-            https://github.com/Autumn-leaves-solutions as InternShip
+
+           as InternShip
+           https://www.linkedin.com/company/autumn-leaves-solutions-2020/ 
 
 # - 🌱 I’m currently learning Python.
 
