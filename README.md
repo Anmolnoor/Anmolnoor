@@ -2,6 +2,24 @@
 
 ### I'm self-motivated computer science engineer with keen interest in coding.
 
+# - 🔭 I’m currently working at https://github.com/Autumn-leaves-solutions as InternShip
+
+# - 🌱 I’m currently learning Python.
+
+# - 💬 Ask me about NODE-JS, EXPRESS-JS, PASSPORT-JS, MONGOOSE, JAVASCRIPT, REACT... and ANDROID DEVELOPMENT.
+
+# - 📫 How to reach me:
+      
+      https://www.linkedin.com/in/anmol-noor/
+      
+      https://www.instagram.com/_anmol_noor/
+      
+      https://github.com/Anmolnoor
+      
+# - 🖥️ Project's I have Done Before :-
+
+
+
 
 
 
