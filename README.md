@@ -1,12 +1,13 @@
-### Hi there 
+Hi there 
+# I'm self-motivated computer science engineer with keen interest in coding.
 
-### I'm self-motivated computer science engineer with keen interest in coding.
-
-# - 🔭 I’m currently working at https://github.com/Autumn-leaves-solutions as InternShip
+# - 🔭 I’m currently working at
+            https://github.com/Autumn-leaves-solutions as InternShip
 
 # - 🌱 I’m currently learning Python.
 
-# - 💬 Ask me about NODE-JS, EXPRESS-JS, PASSPORT-JS, MONGOOSE, JAVASCRIPT, REACT... and ANDROID DEVELOPMENT.
+# - 💬 Ask me about 
+            NODE-JS, EXPRESS-JS, PASSPORT-JS, MONGOOSE, JAVASCRIPT, REACT... and ANDROID DEVELOPMENT.
 
 # - 📫 How to reach me:
       
@@ -18,6 +19,7 @@
       
 # - 🖥️ Project's I have Done Before :-
 
+            
 
 
 
