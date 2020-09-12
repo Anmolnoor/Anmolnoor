@@ -29,9 +29,9 @@ Personal website:- https://anmolnoor.github.io/website/
 
 # Web Development -
              
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/bgiet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Keeper.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Blog-with-Database)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=bgiet)](https://github.com/Anmolnoor/bgiet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=Keeper)](https://github.com/Anmolnoor/Keeper.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=Blog-with-Database)](https://github.com/Anmolnoor/Blog-with-Database)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/website)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/todolist)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/my-express-server)
