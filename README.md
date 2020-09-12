@@ -29,20 +29,20 @@ Personal website:- https://anmolnoor.github.io/website/
 
 # Web Development -
              
-[![ReadMe Card](https://github.com/Anmolnoor/bgiet)
-[![ReadMe Card](https://github.com/Anmolnoor/Keeper.git)
-[![ReadMe Card](https://github.com/Anmolnoor/Blog-with-Database)
-[![ReadMe Card](https://github.com/Anmolnoor/website)
-[![ReadMe Card](https://github.com/Anmolnoor/todolist)
-[![ReadMe Card](https://github.com/Anmolnoor/my-express-server)
-[![ReadMe Card](https://github.com/Anmolnoor/wiki-api)
-[![ReadMe Card](https://github.com/Anmolnoor/weather-project)
-[![ReadMe Card](https://github.com/Anmolnoor/Newsletter-Singup)
-[![ReadMe Card](https://github.com/Anmolnoor/Simon-Game)
-[![ReadMe Card](https://github.com/Anmolnoor/calculator)
-[![ReadMe Card](https://github.com/Anmolnoor/Drum_Kit)
-[![ReadMe Card](https://github.com/Anmolnoor/Dice_Roller)
-[![ReadMe Card](https://github.com/Anmolnoor/TinDog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/bgiet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Keeper.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Blog-with-Database)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/todolist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/my-express-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/wiki-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/weather-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Newsletter-Singup)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Simon-Game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/calculator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Drum_Kit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/Dice_Roller)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=AnmolNoor.github.io)](https://github.com/Anmolnoor/TinDog)
 
             
             
