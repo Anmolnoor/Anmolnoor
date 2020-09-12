@@ -28,35 +28,21 @@ Personal website:- https://anmolnoor.github.io/website/
 # - 🖥️ Project's I have Done Before:-
 
 # Web Development -
-
-BGIET - (College website project)               
+             
 [![ReadMe Card](https://github.com/Anmolnoor/bgiet)
-Keeper -(Google keeper clone)                   
 [![ReadMe Card](https://github.com/Anmolnoor/Keeper.git)
-Daily Journal Blog-with-Database-               
 [![ReadMe Card](https://github.com/Anmolnoor/Blog-with-Database)
-Personal Website - (Persoal Resume)             
 [![ReadMe Card](https://github.com/Anmolnoor/website)
-To-Do List - (To-do list)                       
 [![ReadMe Card](https://github.com/Anmolnoor/todolist)
-Node js Server (node js server boilerplate)     
 [![ReadMe Card](https://github.com/Anmolnoor/my-express-server)
-Wiki-API - (wiki pedia api clone)               
 [![ReadMe Card](https://github.com/Anmolnoor/wiki-api)
-Weather-api - (OpenWeatherMap- API)             
 [![ReadMe Card](https://github.com/Anmolnoor/weather-project)
-Newsletter Sign-up - (MailChimp - API)          
 [![ReadMe Card](https://github.com/Anmolnoor/Newsletter-Singup)
-Simon Game - (Simon Game)                       
 [![ReadMe Card](https://github.com/Anmolnoor/Simon-Game)
-Calculator - (calculator and BIM calculator)    
 [![ReadMe Card](https://github.com/Anmolnoor/calculator)
-Drum Kit - (Working Drum KIT...)                
 [![ReadMe Card](https://github.com/Anmolnoor/Drum_Kit)
-Dice Roller - (Dice roller for toss)            
 [![ReadMe Card](https://github.com/Anmolnoor/Dice_Roller)
-TinDog - (Tinder clone)                         
-(https://github.com/Anmolnoor/TinDog)
+[![ReadMe Card](https://github.com/Anmolnoor/TinDog)
 
             
             
