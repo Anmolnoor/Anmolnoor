@@ -11,7 +11,7 @@
  
 I'm a self-motivated computer science engineer with a keen interest in coding.
 
-Personal website:- https://anmolnoor.github.io/website/
+**website:-** https://anmolnoor.github.io/website/
 
 - **💼 Currently working as** Web Developer Intern at <a href="https://www.linkedin.com/company/autumn-leaves-solutions-2020/" target="_blank"><b>Autumn-Leaves-Solutions</b></a>
 - **🌱 I’m currently learning** Python and Full Stack Web Development.
