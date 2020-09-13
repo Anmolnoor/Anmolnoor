@@ -23,7 +23,8 @@ Personal website:- https://anmolnoor.github.io/website/
   <img align="left" alt="Anmol's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
 </a><a href="https://github.com/Anmolnoor">
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
-</a></div>
+</a>
+<br /></div>
 
 
 - 🖥️ Project's I have Done Before:-
