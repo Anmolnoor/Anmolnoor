@@ -13,7 +13,7 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 
 Personal website:- https://anmolnoor.github.io/website/
 
-**💼 Currently working as:** Web Developer Engineering Intern at <a href="https://www.linkedin.com/company/autumn-leaves-solutions-2020/" target="_blank"><b>Autumn-Leaves-Solutions</b></a>
+**💼 Currently working as** Web Developer Intern at <a href="https://www.linkedin.com/company/autumn-leaves-solutions-2020/" target="_blank"><b>Autumn-Leaves-Solutions</b></a>
 - 🌱 I’m currently learning Python and Full Stack Web Development.
 - 💬 Ask me about WEB DEVELOPMENT and ANDROID DEVELOPMENT.
 - 📫 How to reach me:
@@ -29,8 +29,11 @@ Personal website:- https://anmolnoor.github.io/website/
 <a href="https://github.com/Anmolnoor">
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
 </a>
+
+
+- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
       
-# - 🖥️ Project's I have Done Before:-
+- 🖥️ Project's I have Done Before:-
 
 # Web Development -
              
@@ -54,6 +57,16 @@ Personal website:- https://anmolnoor.github.io/website/
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=LionorTiger)](https://github.com/Anmolnoor/LionorTiger)
 <br />
 <br />
+
+**Languages and Tools:** 
+<p align="left">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  
+</p>
+
+
+
+
 <div><p>My profile overview: </p></div>
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolNoor&show_icons=true)
