@@ -14,10 +14,10 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 Personal website:- https://anmolnoor.github.io/website/
 
 - **💼 Currently working as** Web Developer Intern at <a href="https://www.linkedin.com/company/autumn-leaves-solutions-2020/" target="_blank"><b>Autumn-Leaves-Solutions</b></a>
-- 🌱 I’m currently learning Python and Full Stack Web Development.
-- 💬 Ask me about WEB DEVELOPMENT and ANDROID DEVELOPMENT.
-- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)      
-- 📫 How to reach me: <div aling="center"><br /><a href="https://www.linkedin.com/in/anmol-noor/">
+- **🌱 I’m currently learning** Python and Full Stack Web Development.
+- **💬 Ask me about** WEB DEVELOPMENT and ANDROID DEVELOPMENT.
+- **⚡ Fun fact** I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)      
+- **📫 How to reach me** <div aling="center"><br /><a href="https://www.linkedin.com/in/anmol-noor/">
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><a href="https://www.instagram.com/_anmol_noor/">
   <img align="left" alt="Anmol's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
@@ -27,7 +27,7 @@ Personal website:- https://anmolnoor.github.io/website/
 <br /></div>
 
 
-- 🖥️ Project's I have Done Before:-
+- **🖥️ Project's I have Done Before:-**
 
 # Web Development -
              
@@ -57,10 +57,6 @@ Personal website:- https://anmolnoor.github.io/website/
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media1.tenor.com/images/22fe6df3a0b3b8a6913f5fd10ccf06ee/tenor.gif?itemid=16830375" width="50"><img src="https://m.gifmania.co.uk/Web-Design-Animated-Gifs/Animated-Signs-Websites/Java-Signs/Java-Logo-62291.gif" width="50"><img src="https://media1.giphy.com/media/d31wIu3HgY048MKs/giphy.webp?cid=ecf05e47acf8eg0iu3inwrtlen2g6bgxs7blus7z20yobvqb&rid=giphy.webp" width="50">
   
 </p>
-
-
-
-
 <div><p>My profile overview: </p></div>
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolNoor&show_icons=true)
@@ -83,15 +79,4 @@ Personal website:- https://anmolnoor.github.io/website/
 <!--
 **Anmolnoor/Anmolnoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Bhai Gurdas Institute of Engineering and Technology.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
