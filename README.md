@@ -60,7 +60,7 @@ Personal website:- https://anmolnoor.github.io/website/
 
 **Languages and Tools:** 
 <p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media1.tenor.com/images/22fe6df3a0b3b8a6913f5fd10ccf06ee/tenor.gif?itemid=16830375" width="50">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media1.tenor.com/images/22fe6df3a0b3b8a6913f5fd10ccf06ee/tenor.gif?itemid=16830375" width="50"><img src="https://m.gifmania.co.uk/Web-Design-Animated-Gifs/Animated-Signs-Websites/Java-Signs/Java-Logo-62291.gif" width="50"><img src="https://media1.giphy.com/media/d31wIu3HgY048MKs/giphy.webp?cid=ecf05e47acf8eg0iu3inwrtlen2g6bgxs7blus7z20yobvqb&rid=giphy.webp" width="50">
   
 </p>
 
