@@ -5,15 +5,15 @@
   <!--- https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e476ef3a2ba3e3db6069758c530516705d3794bbb18&rid=giphy.gif  -->
   
   
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
  
- :heart: Programming | :heart: Music | :heart: BodyBuilding
+ :heart: Programming | :heart: Music | :heart: BodyBuilding  |  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
  
 I'm a self-motivated computer science engineer with a keen interest in coding.
 
 Personal website:- https://anmolnoor.github.io/website/
 
-- 🔭 I’m currently working at Autumn-Leaves-Solutions as InternShip
+**💼 Currently working as:** Web Developer Engineering Intern at <a href="https://www.linkedin.com/company/autumn-leaves-solutions-2020/" target="_blank"><b>Autumn-Leaves-Solutions</b></a>
 - 🌱 I’m currently learning Python and Full Stack Web Development.
 - 💬 Ask me about WEB DEVELOPMENT and ANDROID DEVELOPMENT.
 - 📫 How to reach me:
