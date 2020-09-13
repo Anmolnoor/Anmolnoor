@@ -16,14 +16,22 @@ Personal website:- https://anmolnoor.github.io/website/
 - 💬 Ask me about WEB DEVELOPMENT and ANDROID DEVELOPMENT.
 
 - 📫 How to reach me:
-      
-      https://www.linkedin.com/in/anmol-noor/
-      
-      https://www.instagram.com/_anmol_noor/
-      
-      | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Anmolnoor)
-      |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](anmolnoor59@gmail.com)
-      | 
+
+<a href="https://www.linkedin.com/in/anmol-noor/">
+  <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/_anmol_noor/">
+  <img align="left" alt="Anmol's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/anmol-noor/">
+  <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Anmolnoor)
+|  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](anmolnoor59@gmail.com)
+
       
 # - 🖥️ Project's I have Done Before:-
 
@@ -52,7 +60,7 @@ Personal website:- https://anmolnoor.github.io/website/
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=AnmolNoor&show_icons=true)
+![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolNoor&show_icons=true)
 <br />
 <br />
 
