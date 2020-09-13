@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e476ef3a2ba3e3db6069758c530516705d3794bbb18&rid=giphy.gif">
+  <img src="https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e4785b3647002b1f1e8467f72add666753d02755381&rid=giphy.gif">
   <h2 align="center">Profile</h2>
 </p>
-  <!--- https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e4785b3647002b1f1e8467f72add666753d02755381&rid=giphy.gif --->
+  <!---  --->
   <!--- https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e476ef3a2ba3e3db6069758c530516705d3794bbb18&rid=giphy.gif  -->
   
   
@@ -56,7 +56,7 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 
 **Languages and Tools:** 
 <p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media1.tenor.com/images/22fe6df3a0b3b8a6913f5fd10ccf06ee/tenor.gif?itemid=16830375" width="50"><img src="https://m.gifmania.co.uk/Web-Design-Animated-Gifs/Animated-Signs-Websites/Java-Signs/Java-Logo-62291.gif" width="50"><img src="https://media1.giphy.com/media/d31wIu3HgY048MKs/giphy.webp?cid=ecf05e47acf8eg0iu3inwrtlen2g6bgxs7blus7z20yobvqb&rid=giphy.webp" width="50">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media1.tenor.com/images/22fe6df3a0b3b8a6913f5fd10ccf06ee/tenor.gif?itemid=16830375" width="50"><img src="https://m.gifmania.co.uk/Web-Design-Animated-Gifs/Animated-Signs-Websites/Java-Signs/Java-Logo-62291.gif" width="50"><img src="https://media1.giphy.com/media/d31wIu3HgY048MKs/giphy.webp?cid=ecf05e47acf8eg0iu3inwrtlen2g6bgxs7blus7z20yobvqb&rid=giphy.webp" width="50"><img src="https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e476ef3a2ba3e3db6069758c530516705d3794bbb18&rid=giphy.gif" width="50">
   
 </p>
 <div><p>My profile overview: </p></div>
