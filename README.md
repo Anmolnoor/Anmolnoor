@@ -5,7 +5,7 @@
   <!--- https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e476ef3a2ba3e3db6069758c530516705d3794bbb18&rid=giphy.gif  -->
   
   
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
  
  :heart: Programming | :heart: Music | :heart: BodyBuilding
  
@@ -14,9 +14,8 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 Personal website:- https://anmolnoor.github.io/website/
 
 - 🔭 I’m currently working at Autumn-Leaves-Solutions as InternShip
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Full Stack Web Development.
 - 💬 Ask me about WEB DEVELOPMENT and ANDROID DEVELOPMENT.
-
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/anmol-noor/">
@@ -64,8 +63,9 @@ Personal website:- https://anmolnoor.github.io/website/
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
+### ⭐️ From [Anmol Noor](https://github.com/AnmolNoor)
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+ 
 
 
 
