@@ -16,6 +16,7 @@ Personal website:- https://anmolnoor.github.io/website/
 **💼 Currently working as** Web Developer Intern at <a href="https://www.linkedin.com/company/autumn-leaves-solutions-2020/" target="_blank"><b>Autumn-Leaves-Solutions</b></a>
 - 🌱 I’m currently learning Python and Full Stack Web Development.
 - 💬 Ask me about WEB DEVELOPMENT and ANDROID DEVELOPMENT.
+- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)      
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/anmol-noor/">
@@ -30,10 +31,8 @@ Personal website:- https://anmolnoor.github.io/website/
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
 </a>
 
+<br />
 
-
-
-- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)      
 - 🖥️ Project's I have Done Before:-
 
 # Web Development -
