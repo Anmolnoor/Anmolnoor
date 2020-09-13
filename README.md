@@ -18,7 +18,7 @@ Personal website:- https://anmolnoor.github.io/website/
 - 💬 Ask me about WEB DEVELOPMENT and ANDROID DEVELOPMENT.
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)      
 - 📫 How to reach me:
-<a href="https://www.linkedin.com/in/anmol-noor/">
+<div><a href="https://www.linkedin.com/in/anmol-noor/">
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><a href="https://www.instagram.com/_anmol_noor/">
   <img align="left" alt="Anmol's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
@@ -26,12 +26,7 @@ Personal website:- https://anmolnoor.github.io/website/
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
 </a>
 
-<br />
-
-
-
-
-
+<br /></div>
 
 - 🖥️ Project's I have Done Before:-
 
