@@ -25,13 +25,9 @@ Personal website:- https://anmolnoor.github.io/website/
   <img align="left" alt="Anmol's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/anmol-noor/">
-  <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/Anmolnoor">
+  <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
 </a>
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Anmolnoor)
-|  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](anmolnoor59@gmail.com)
-
       
 # - 🖥️ Project's I have Done Before:-
 
@@ -52,12 +48,11 @@ Personal website:- https://anmolnoor.github.io/website/
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=Dice_Roller)](https://github.com/Anmolnoor/Dice_Roller)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=TinDog)](https://github.com/Anmolnoor/TinDog)
 
-            
-            
+# Android Development - 
 
-
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnmolNoor&repo=LionorTiger)](https://github.com/Anmolnoor/LionorTiger)
+<br />
+<br />
 <div><p>My profile overview: </p></div>
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolNoor&show_icons=true)
