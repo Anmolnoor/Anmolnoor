@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif">
+  <img src="https://media2.giphy.com/media/Xzq321KSESHt833MYj/giphy.gi">
   <h2 align="center">Profile</h2>
 </p>
-<img src="https://media1.giphy.com/media/Qs1HLJYCcNgUP1Zd5Z/giphy.gif" height="70">
+
   <!--- https://media2.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif--->
   <!--- https://media4.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif--->
   <!--- https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e4785b3647002b1f1e8467f72add666753d02755381&rid=giphy.gif --->
@@ -71,7 +71,7 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
-### ⭐️ From [Anmol Noor <img src="https://media3.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" height="30">](https://github.com/AnmolNoor)
+### ⭐️ From [Anmol Noor ](https://github.com/AnmolNoor)<img src="https://media3.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" height="30"> 
 
  
 
