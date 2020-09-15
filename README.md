@@ -29,6 +29,7 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
 </a>
 <br /></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="anmol-noor"><a class="LI-simple-link" href='https://in.linkedin.com/in/anmol-noor?trk=profile-badge'>Anmol Noor</a></div>
 
 
 - **🖥️ Project's I have Done Before:-**
