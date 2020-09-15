@@ -12,7 +12,7 @@
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
  
- :heart: Programming | :heart: Music | :heart: BodyBuilding  |  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+ :heart: Programming | :heart: Music | :heart: BodyBuilding 
  
 I'm a self-motivated computer science engineer with a keen interest in coding.
 
@@ -72,7 +72,7 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 <br />
 <br />
 ### ⭐️ From [Anmol Noor ](https://github.com/AnmolNoor)   
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 
  
 
