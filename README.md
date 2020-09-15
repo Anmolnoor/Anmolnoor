@@ -1,4 +1,4 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <p align="center">
   <img src="https://github.com/Anmolnoor/Anmolnoor/blob/master/gif%20profile/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f587a713332314b53455348743833334d596a2f67697068792e676966.gif?raw=true">
   <h2 align="center">Profile</h2>
@@ -30,8 +30,6 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
   <img align="left" alt="Anmol's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
 </a>
 <br /></div>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="anmol-noor"><a class="LI-simple-link" href='https://in.linkedin.com/in/anmol-noor?trk=profile-badge'>Anmol Noor</a></div>
-
 
 - **🖥️ Project's I have Done Before:-**
 
