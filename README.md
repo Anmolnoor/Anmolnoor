@@ -1,3 +1,4 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p align="center">
   <img src="https://github.com/Anmolnoor/Anmolnoor/blob/master/gif%20profile/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f587a713332314b53455348743833334d596a2f67697068792e676966.gif?raw=true">
   <h2 align="center">Profile</h2>
