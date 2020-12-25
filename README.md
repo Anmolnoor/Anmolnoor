@@ -68,7 +68,7 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 <br />
 <br />
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![picture](https://raw.githubusercontent.com/Anmolnoor/Anmolnoor/master/gif%20profile/giphy.webp)
 <br />
 <br />
 ### ⭐️ From [Anmol Noor ](https://github.com/AnmolNoor)   
