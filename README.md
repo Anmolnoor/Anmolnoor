@@ -19,7 +19,7 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 **website:-** https://anmolnoor.github.io/website/
 
 - **💼 Currently working as** Web Developer Intern at <a href="https://swplgeek.com/" target="_blank"><b>SWPL</b></a>
-- **🌱 I’m currently learning** Python and Full Stack Web Development.
+- **🌱 I’m currently learning** MERN Development.
 - **💬 Ask me about** WEB DEVELOPMENT and ANDROID DEVELOPMENT.
 - **⚡ Fun fact** I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)      
 - **📫 How to reach me** <div aling="center"><br /><a href="https://www.linkedin.com/in/anmol-noor/">
