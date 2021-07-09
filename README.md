@@ -9,7 +9,7 @@
   <!--- https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e4785b3647002b1f1e8467f72add666753d02755381&rid=giphy.gif --->
   <!--- https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e476ef3a2ba3e3db6069758c530516705d3794bbb18&rid=giphy.gif  -->
   
-  <script src="https://tryhackme.com/badge/236287"></script>
+  [!](<script src="https://tryhackme.com/badge/236287"></script>)
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
  
  :heart: Programming | :heart: Music | :heart: BodyBuilding 
