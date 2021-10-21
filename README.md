@@ -84,10 +84,10 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 <!--
 **Anmolnoor/Anmolnoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Bhai Gurdas Institute of Engineering and Technology.
+
 -->
 
-
-# **Hi there, I am** [Vishal](https://vishal-raj-1.github.io/Portfolio/) 👋
+# **Hi there, I am** [ANMOL NOOR](https://anmolnoor.github.io/website/) 👋
 
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Vishal-raj-1)
