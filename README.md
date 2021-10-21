@@ -100,7 +100,7 @@ Bhai Gurdas Institute of Engineering and Technology.
 # **Hi there, I am** [ANMOL NOOR](https://anmolnoor.github.io/website/) 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 
-[<img src="https://img.shields.io/badge/Github-%23333333.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Anmolnoor)
+[<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Anmolnoor)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anmolnoor59@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anmol-noor-47305013a)
 [<img src="https://img.shields.io/badge/Portfolio-%23eeeeee.svg?&style=for-the-badge">](https://anmolnoor.github.io/website/)
