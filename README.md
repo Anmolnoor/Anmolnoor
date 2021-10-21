@@ -13,7 +13,6 @@
   
   
   
---->
   
 ### 👋 Hello World ! 
  
@@ -77,10 +76,9 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 <br />
 <br />
 ### ⭐️ From [Anmol Noor ](https://github.com/AnmolNoor)   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 
- 
 
+--->
 
 
 
@@ -152,3 +150,6 @@ Bhai Gurdas Institute of Engineering and Technology.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=150)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+
+ 
