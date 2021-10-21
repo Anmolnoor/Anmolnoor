@@ -133,13 +133,12 @@ Bhai Gurdas Institute of Engineering and Technology.
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-raj-1&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor&theme=dark" width="48%" >
 <br>
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=120)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=50)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-raj-1.Vishal-raj-1)
 </div>
