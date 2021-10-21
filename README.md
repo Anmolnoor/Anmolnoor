@@ -99,13 +99,13 @@ Bhai Gurdas Institute of Engineering and Technology.
 
 -->
 
-👋# **Hi there, I am** [ANMOL NOOR](https://anmolnoor.github.io/website/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+# **Hi there, I am** [ANMOL NOOR](https://anmolnoor.github.io/website/) 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Anmolnoor)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anmolnoor59@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anmol-noor-47305013a)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vishal-raj-1.github.io/Portfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://anmolnoor.github.io/website/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/anmolnoor59)
 
 ## 🚀 *About me*
@@ -114,9 +114,9 @@ Bhai Gurdas Institute of Engineering and Technology.
 
 ## ⚒ *My Experience*
 
-**Web Developer Intern at [GirlScript](https://github.com/girlscript) - I have worked on leaderboard of [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/). It was fully automated leaderboard built using github api. I have also work on website layout.**
+**React Native Intern at [Fortec Solution](https://fortecsolution.com/) - I have worked on Complaint Ticket Booking App of [Protocol Solutions](https://protocolsolution.com/). It was fully automated Ticket Generator using React-Native as Frontend and PHP based API. I have also work on App UI/UX.**
 
-**Project Admin at [GirlScript Summer of Code 21](http://gssoc.girlscript.tech/) & [Cross Winter of Code](https://crosswoc.ieeedtu.in/) - I guided 4 mentors and 300++ open source enthusiasts about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.**
+**Team Lead at [SWPL](http://gssoc.girlscript.tech/) & [Cross Winter of Code](https://crosswoc.ieeedtu.in/) - I guided 4 mentors and 300++ open source enthusiasts about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.**
 
 **Open Source Developer at [NJACK Winter of Code 20](njackwinterofcode.github.io) & [Kharagpur Winter of Code 20](https://kwoc.kossiitkgp.org/) - I worked on more than 10 projects during this programs. The main project I was working on is [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites). In December 2020, I have raised more than 50 Pull Requests and solved 70++ issues. NWOC'21 was my first open source program and I ranked 1 in this program check leaderboard** [here](https://njackwinterofcode.github.io/leaderboard.html).
 
@@ -149,6 +149,6 @@ Bhai Gurdas Institute of Engineering and Technology.
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=50)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=150)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
