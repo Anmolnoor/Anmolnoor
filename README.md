@@ -151,6 +151,8 @@ Bhai Gurdas Institute of Engineering and Technology.
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=150)](https://github.com/ryo-ma/github-profile-trophy)
+ </div>
+ <div>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 </div>
 
