@@ -1,15 +1,21 @@
 
+<!--- 
+
 <p align="center">
   <img src="https://github.com/Anmolnoor/Anmolnoor/blob/master/gif%20profile/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f587a713332314b53455348743833334d596a2f67697068792e676966.gif?raw=true">
   <h2 align="center">Profile</h2>
 </p>
-
-  <!--- https://media2.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif--->
+<!--- https://media2.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif--->
   <!--- https://media4.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif--->
   <!--- https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e4785b3647002b1f1e8467f72add666753d02755381&rid=giphy.gif --->
   <!--- https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e476ef3a2ba3e3db6069758c530516705d3794bbb18&rid=giphy.gif  -->
   
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+  
+  
+  
+--->
+  
+### 👋 Hello World ! 
  
  :heart: Programming | :heart: Music | :heart: BodyBuilding 
  
@@ -85,18 +91,22 @@ I'm a self-motivated computer science engineer with a keen interest in coding.
 **Anmolnoor/Anmolnoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Bhai Gurdas Institute of Engineering and Technology.
 
+
+
+
+[<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/vishalraj_1)
+[<img src="https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=Leetcode&logoColor=orange">](https://leetcode.com/Vishal_Rajput/)
+
 -->
 
-# **Hi there, I am** [ANMOL NOOR](https://anmolnoor.github.io/website/) 👋
+👋# **Hi there, I am** [ANMOL NOOR](https://anmolnoor.github.io/website/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Vishal-raj-1)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajputvishal33786@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vishal-r-0710061a1/)
-[<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/vishalraj_1)
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Anmolnoor)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anmolnoor59@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anmol-noor-47305013a)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vishal-raj-1.github.io/Portfolio/)
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/Vishal_Rajput)
-[<img src="https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=Leetcode&logoColor=orange">](https://leetcode.com/Vishal_Rajput/)
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/anmolnoor59)
 
 ## 🚀 *About me*
 
