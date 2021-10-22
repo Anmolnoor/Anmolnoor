@@ -106,21 +106,40 @@ Bhai Gurdas Institute of Engineering and Technology.
 [<img src="https://img.shields.io/badge/Portfolio-%23444444.svg?&style=for-the-badge">](https://anmolnoor.github.io/website/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/anmolnoor59)
 
-## 🚀 *About me*
+# 🚀 *About me*
 
 **I'm a self-motivated computer science engineer with a keen interest in coding.**
 
-## ⚒ *My Experience*
-
+# ⚒ *My Experience*
+<!---
 **React Native Intern at [Fortec Solution](https://fortecsolution.com/) - I have worked on Complaint Ticket Booking App of [Protocol Solutions](https://protocolsolution.com/). It was fully automated Ticket Generator using React-Native as Frontend and PHP based API. I have also work on App UI/UX.**
 
-**Team Lead at [SWPL](http://gssoc.girlscript.tech/) & [Cross Winter of Code](https://crosswoc.ieeedtu.in/) - I guided 4 mentors and 300++ open source enthusiasts about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.**
+**Team Lead at [SWPL]() & [React Developer](https://reactjs.org/) - I guided 4 mentors and 300++ open source enthusiasts about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.**
 
 **Open Source Developer at [NJACK Winter of Code 20](njackwinterofcode.github.io) & [Kharagpur Winter of Code 20](https://kwoc.kossiitkgp.org/) - I worked on more than 10 projects during this programs. The main project I was working on is [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites). In December 2020, I have raised more than 50 Pull Requests and solved 70++ issues. NWOC'21 was my first open source program and I ranked 1 in this program check leaderboard** [here](https://njackwinterofcode.github.io/leaderboard.html).
 
 **Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Structure and Algorithms, Frontend Web Development, React, Git & Github from here. [Girl Code It](https://girlcodeit.com/) is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders.**
+--->
 
-## 👨‍💻 *Tech Stack I am Familiar With*:
+**Complaint Ticket Booking Project with _React Native_ for Protocol Solutions.**</br>
+**Rest API for Youtube Clone, It Can _CRUD_ and _upload files_.**</br>
+**FrontEnd for Youtube clone with _ReactJS and React Native_.**</br>
+**RealTime Social Media WebAPP with _MERN_ along with _uploading posts, like , share , delete._**</br>
+**EJS and NodeJS + Express Based College Task management System.**</br>
+**A Login and Registration with JWT Tokens with Private routing and access control.**</br>
+**A Simple Login and Registration app with Implementing Various Encryptions Such as BcryptJS, OAuth, Hashing, etc.**</br>
+**A Daily Journal Blog Application with MongoDB database on Express server.**</br>
+**Weather Project app along with API from Open weather map.**</br>
+**Simon Game with _HTML, CSS and jQuery._**</br>  
+**Drum Kit with _HTML, CSS and jQuery._** </br>
+
+# 🚧 *Live Projects*:
+
+[Simon Game](https://anmolnoor.github.io/Simon-Game/)<br>
+[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)
+
+
+# 👨‍💻 *Tech Stack I am Familiar With*:
 
 <p align="center" >
 <br/>
@@ -142,7 +161,7 @@ Bhai Gurdas Institute of Engineering and Technology.
 <br/>
 </p>
 
-## 🏆 *Github Status*
+# 🏆 *Github Status*
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor&theme=dark" width="48%" >
