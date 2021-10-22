@@ -121,22 +121,19 @@ Bhai Gurdas Institute of Engineering and Technology.
 **Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Structure and Algorithms, Frontend Web Development, React, Git & Github from here. [Girl Code It](https://girlcodeit.com/) is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders.**
 --->
 
-**Complaint Ticket Booking Project with _React Native_ for Protocol Solutions.**</br>
-**Rest API for Youtube Clone, It Can _CRUD_ and _upload files_.**</br>
-**FrontEnd for Youtube clone with _ReactJS and React Native_.**</br>
-**RealTime Social Media WebAPP with _MERN_ along with _uploading posts, like , share , delete._**</br>
-**EJS and NodeJS + Express Based College Task management System.**</br>
-**A Login and Registration with JWT Tokens with Private routing and access control.**</br>
-**A Simple Login and Registration app with Implementing Various Encryptions Such as BcryptJS, OAuth, Hashing, etc.**</br>
-**A Daily Journal Blog Application with MongoDB database on Express server.**</br>
-**Weather Project app along with API from Open weather map.**</br>
-**Simon Game with _HTML, CSS and jQuery._**</br>  
-**Drum Kit with _HTML, CSS and jQuery._** </br>
-
 # 🚧 *Live Projects*:
 
-[Simon Game](https://anmolnoor.github.io/Simon-Game/)<br>
-[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)
+Complaint Ticket Booking Project with **_React Native_** for Protocol Solutions.</br>
+Rest API for Youtube Clone, It Can **_CRUD_ and _upload files_.**</br>
+FrontEnd for Youtube clone with **_ReactJS and React Native_.**</br>
+RealTime Social Media WebAPP with **_MERN_** along with **_uploading posts, like , share , delete._**</br>
+**_EJS and NodeJS + Express_** Based College Task management System.</br>
+A Login and Registration with **_JWT Tokens_** with Private routing and access control.</br>
+A Simple Login and Registration app with Implementing Various Encryptions Such as **_BcryptJS, OAuth, Hashing_**, etc.</br>
+A Daily Journal Blog Application with **_MongoDB_** database on **_Express_** server.</br>
+Weather Project app along with **_API_** from Open weather map.</br>
+**[Simon Game](https://anmolnoor.github.io/Simon-Game/)** with **_HTML, CSS and jQuery._** </br>
+**[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)** with **_HTML, CSS and javascript._** </br> 
 
 
 # 👨‍💻 *Tech Stack I am Familiar With*:
@@ -168,9 +165,9 @@ Bhai Gurdas Institute of Engineering and Technology.
 <br>
 
 <div>
-  
+<!---  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=150)](https://github.com/ryo-ma/github-profile-trophy)
-
+--->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 
 </div>
