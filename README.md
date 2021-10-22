@@ -1,5 +1,5 @@
 
-# **Hi there 👋, I am** [ANMOL NOOR](https://anmolnoor.github.io/website/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+# **Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I am** [ANMOL NOOR](https://anmolnoor.github.io/website/) 
 
 [<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/Anmolnoor)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anmolnoor59@gmail.com)
