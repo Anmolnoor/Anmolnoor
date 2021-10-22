@@ -163,10 +163,12 @@ Weather Project app along with **_API_** from Open weather map.</br>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor&theme=dark" width="48%" >
 <br>
 
-<div>
 <!---  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=150)](https://github.com/ryo-ma/github-profile-trophy)
 --->
+
+<div>
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 
 </div>
