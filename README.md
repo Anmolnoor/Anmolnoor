@@ -111,17 +111,16 @@ Bhai Gurdas Institute of Engineering and Technology.
 **I'm a self-motivated computer science engineer with a keen interest in coding.**
 
 # ⚒ *My Experience*
-<!---
+
 **React Native Intern at [Fortec Solution](https://fortecsolution.com/) - I have worked on Complaint Ticket Booking App of [Protocol Solutions](https://protocolsolution.com/). It was fully automated Ticket Generator using React-Native as Frontend and PHP based API. I have also work on App UI/UX.**
 
-**Team Lead at [SWPL]() & [React Developer](https://reactjs.org/) - I guided 4 mentors and 300++ open source enthusiasts about the open source. I was the Project admin of [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects). The aim of this project to guide participants how they can make lot of stuff using simple vanilla JavaScript.**
+**Team Lead at [SWPL]() - I have worked with team of 5 Developer. We worked on Two projects, which are Rural Paisa and Full Stop in MERN Stack.**
 
-**Open Source Developer at [NJACK Winter of Code 20](njackwinterofcode.github.io) & [Kharagpur Winter of Code 20](https://kwoc.kossiitkgp.org/) - I worked on more than 10 projects during this programs. The main project I was working on is [Awesome Portfolio Website](https://github.com/smaranjitghose/awesome-portfolio-websites). In December 2020, I have raised more than 50 Pull Requests and solved 70++ issues. NWOC'21 was my first open source program and I ranked 1 in this program check leaderboard** [here](https://njackwinterofcode.github.io/leaderboard.html).
+**Web-Developer Internship at [ALS](https://autumnleavessolutions.com/)  - I have complete my 1 month Internship which include 3 projects. Such as Single Page website(landing page), College ERP, E-commerce (ReactJS).**
 
-**Mentee at [Girl Code It](https://github.com/Girl-Code-It) - I learnt Data Structure and Algorithms, Frontend Web Development, React, Git & Github from here. [Girl Code It](https://girlcodeit.com/) is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders.**
---->
 
-# 🚧 *Live Projects*:
+
+# 🚧 *Projects*:
 
 Complaint Ticket Booking Project with **_React Native_** for Protocol Solutions.</br>
 Rest API for Youtube Clone, It Can **_CRUD_ and _upload files_.**</br>
