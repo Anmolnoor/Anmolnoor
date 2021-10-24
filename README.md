@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/Anmolnoor)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anmolnoor59@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anmol-noor-47305013a)
-[<img src="https://img.shields.io/badge/Portfolio-%23444444.svg?&style=for-the-badge">](https://anmolnoor.github.io/website/)
+<!-- [<img src="https://img.shields.io/badge/Portfolio-%23444444.svg?&style=for-the-badge">](https://anmolnoor.github.io/website/) -->
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/anmolnoor59)
 
 <!-- | this | is | a |
