@@ -124,7 +124,8 @@ Weather Project app along with **_API_** from Open weather map.</br>
 <a href = "https://www.instagram.com/_anmol_noor/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
  -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor) 
+ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---  
