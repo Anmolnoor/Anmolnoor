@@ -17,9 +17,9 @@
 
 **I'm a self-motivated computer science engineer with a keen interest in coding.**
 
-- 🔭 I’m currently working on **[MERN]()**
+- 🔭 I’m currently working on **MERN** **Web3** **Solana**
 
-- 🌱 I’m currently learning **TypeScript | GraphQL**
+- 🌱 I’m currently learning **Solana | GraphQL**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -36,6 +36,8 @@
 
 # ⚙️ *Skills*:
 
+- Web3 Developer 
+- Solana web3 Developer
 - React Native Development 
 - Android Development 
 - MERN Development 
