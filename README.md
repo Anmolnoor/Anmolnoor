@@ -61,18 +61,33 @@
 
 # 💻 *Projects*:
 
-Complaint Ticket Booking Project with **_React Native_** for Protocol Solutions.</br>
-Rest API for Youtube Clone, It Can **_CRUD_ and _upload files_.**</br>
-FrontEnd for Youtube clone with **_ReactJS and React Native_.**</br>
-RealTime Social Media WebAPP with **_MERN_** along with **_uploading posts, like , share , delete._**</br>
-**_EJS and NodeJS + Express_** Based College Task management System.</br>
-A Login and Registration with **_JWT Tokens_** with Private routing and access control.</br>
-A Simple Login and Registration app with Implementing Various Encryptions Such as **_BcryptJS, OAuth, Hashing_**, etc.</br>
-A Daily Journal Blog Application with **_MongoDB_** database on **_Express_** server.</br>
-Weather Project app along with **_API_** from Open weather map.</br>
-**[Simon Game](https://anmolnoor.github.io/Simon-Game/)** with **_HTML, CSS and jQuery._** </br>
-**[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)** with **_HTML, CSS and javascript._** </br> 
+**[NFT Droper](http://nft-drop-gold.vercel.app/)** It is a NFT droper on Solana Chain </br>
+**[D-twitter](https://d-itter.netlify.app/#/)** It is a decentralized twitter </br>
+**[wallet-dapp](https://6205df9cef9c0122a08aba3a--sleepy-galileo-ce19c5.netlify.app/)** It is a Solana wallet playground </br>
+**[Image-Portal](https://upbeat-bartik-f06847.netlify.app/)** It is a buildspace Solana IMG Portal Project </br>
+**[solana-riptide-leader-board](http://solana-riptide-leader-board.vercel.app/)** Leader board of the Solana riptide Hackathon **XD** </br>
+**[Flashback](https://github.com/Anmolnoor/flashback)** RealTime Social Media WebAPP with **_MERN_** along with **_uploading posts, like , share , delete._**</br>
+**[Next Events](https://next-event-livid.vercel.app/)** It is a Nextjs application with all benefits of next js </br>
+**[Meetup](https://meetup-smoky.vercel.app/)** It is a React application with all benefits of Reactjs </br>
+**[Next Routing](https://next-routing-ebon.vercel.app/)** It is a Nextjs application for testing routing </br>
+**[natours](https://github.com/Anmolnoor/natours)** It is a **Full Backend** for a tours website with full security </br>
+**[Reservation System](https://reservation-system-ten.vercel.app/)** It is a reservation system in TS </br>
+**[_EJS and NodeJS + Express_](https://bgiet.herokuapp.com/)** Based College Task management System.</br>
+**[Node Farm](https://github.com/Anmolnoor/nodefarm)** It is a website with just node js </br>
+**[Security](https://github.com/Anmolnoor/Security)** A Simple Login and Registration app with Implementing Various Encryptions Such as **_BcryptJS, OAuth, Hashing_**, etc.</br>
+**[Todo List](https://github.com/Anmolnoor/todolist)** A todo list with MongoDB database to store states </br>
+**[Daily Journal](https://github.com/Anmolnoor/Blog-with-Database)** Blog Application with **_MongoDB_** database on **_Express_** server.</br>
+**[News letter](https://github.com/Anmolnoor/Newsletter-Singup)** It is a newsletter with Mailchimp </br>
+**[Weather Project](https://github.com/Anmolnoor/weather-project)** app along with **_API_** from Open weather map.</br>
+**[Simon Game](https://anmolnoor.github.io/Simon-Game/)** It is a Simon game </br>
+**[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)** It is a Drumkit in Website </br>
+**[Dice Roll](https://anmolnoor.github.io/Dice_Roller/)** It is a Dice roller.</br>
+**[Tindog](anmolnoor.github.io/tindog/)** A tinder for dogs </br>
+**[Vim Cheatsheet](https://github.com/Anmolnoor/vimCS/blob/main/README.md)**</br>
+**[Markdown syntax Cheat sheet](https://github.com/Anmolnoor/markdownSCS/blob/main/README.md)**\
 
+Complaint Ticket Booking Project with **_React Native_** for Protocol Solutions.</br>
+A Login and Registration with **_JWT Tokens_** with Private routing and access control.</br>
 
 # 🔨 *Tech Stack I am Familiar With*:
 
@@ -106,17 +121,25 @@ Weather Project app along with **_API_** from Open weather map.</br>
 
 
 # 🏆 *Github Status*
+<!--&theme=dark  -->
+<img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true" width="48%" align="right" >
+<!-- &theme=dark -->
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor" width="48%" >
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor&theme=dark" width="48%" >
+<div align="center">
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=anmolnoor&margin-w=15&column=7)](https://github.com/anmolnoor/github-profile-trophy)
 
-<br/>
+</div>
+
+<!-- <br/>
 <br/>
 
 <a href="https://github.com/Anmolnoor/github-readme-activity-graph"><img alt="Anmol Noor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmolnoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
+
 <!-- 
 # 🔗 Connect with me:
 
@@ -127,9 +150,11 @@ Weather Project app along with **_API_** from Open weather map.</br>
 </p>
  -->
  
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<!---  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anmolnoor&rank=S,SSS,SS,AAA,AA,SECRET,A&theme=juicyfresh&margin-w=150)](https://github.com/ryo-ma/github-profile-trophy)
---->
+  
+ 
+![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
+
