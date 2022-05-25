@@ -156,5 +156,5 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 
   
  
-![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Anmolnoor/Anmolnoor/blob/output/github-contribution-grid-snake.svg)
 
