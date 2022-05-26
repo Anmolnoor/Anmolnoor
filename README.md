@@ -17,6 +17,8 @@
 
 **I'm a self-motivated computer science engineer with a keen interest in coding.**
 
+- 🔭 I’m currently working at **[Huddle 01](https://huddle01.com/)** 
+
 - 🔭 I’m currently working on **MERN** **Web3** **Solana**
 
 - 🌱 I’m currently learning **Solana | GraphQL**
