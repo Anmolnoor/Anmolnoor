@@ -1,4 +1,8 @@
 
+ 
+![Snake animation](https://github.com/Anmolnoor/Anmolnoor/blob/output/github-contribution-grid-snake.svg)
+
+
 # **Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I am** [ANMOL NOOR](https://anmolnoor.github.io/website/) 
 
 [<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/Anmolnoor)
@@ -157,6 +161,5 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
   
- 
-![Snake animation](https://github.com/Anmolnoor/Anmolnoor/blob/output/github-contribution-grid-snake.svg)
+
 
