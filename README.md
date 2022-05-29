@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **MERN** **Web3** **Solana**
 
-- 🌱 I’m currently learning **Solana | GraphQL**
+- 🌱 I’m currently learning **Solana | Blockchain**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
