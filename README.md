@@ -129,13 +129,13 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 
 </div>
 
-<!-- <br/>
+<br/>
 <br/>
 
 <a href="https://github.com/Anmolnoor/github-readme-activity-graph"><img alt="Anmol Noor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmolnoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/> -->
+<br/> 
 
 <!-- 
 # 🔗 Connect with me:
