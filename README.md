@@ -59,7 +59,7 @@
 # 💻 *Projects*:
 
 **[NFT Droper](http://nft-drop-gold.vercel.app/)** It is a NFT droper on Solana Chain </br>
-**[D-twitter](https://d-itter.netlify.app/#/)** It is a decentralized twitter </br>
+**[D-twitter](https://d-itter.netlify.app/#/)** It is a decentralised Twitter </br>
 **[wallet-dapp](https://6205df9cef9c0122a08aba3a--sleepy-galileo-ce19c5.netlify.app/)** It is a Solana wallet playground </br>
 **[Image-Portal](https://upbeat-bartik-f06847.netlify.app/)** It is a buildspace Solana IMG Portal Project </br>
 **[solana-riptide-leader-board](http://solana-riptide-leader-board.vercel.app/)** Leader board of the Solana riptide Hackathon **XD** </br>
