@@ -10,11 +10,11 @@
 
 **I'm a self-motivated computer science engineer with a keen interest in coding.**
 
-- 🔭 I’m currently working at **[Huddle 01](https://huddle01.com/)** 
+<!-- - 🔭 I’m currently working at **[Huddle 01](https://huddle01.com/)** -->
 
-- 🔭 I’m currently working on **MERN** **Web3** **Solana**
+- 🔭 I’m currently working on **MERN** | **Web3** | **Solana** | **webRTC** | **MediaSoup**
 
-- 🌱 I’m currently learning **Solana | Blockchain**
+- 🌱 I’m currently learning **Solana | Blockchain | webRTC**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
