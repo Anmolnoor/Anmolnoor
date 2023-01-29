@@ -68,19 +68,19 @@ lobby and alerts ... so on.**
 **[Next Events](https://next-event-livid.vercel.app/)** It is a Nextjs application with all benefits of next js </br>
 **[Meetup](https://meetup-smoky.vercel.app/)** It is a React application with all benefits of Reactjs </br>
 **[Next Routing](https://next-routing-ebon.vercel.app/)** It is a Nextjs application for testing routing </br>
-**[natours](https://github.com/Anmolnoor/natours)** It is a **Full Backend** for a tours website with full security </br>
+**[natours](https://natours-ej3e.onrender.com)** It is a **Full Backend** for a tours website with full security </br>
 **[Reservation System](https://reservation-system-ten.vercel.app/)** It is a reservation system in TS </br>
-**[_EJS and NodeJS + Express_](https://bgiet.herokuapp.com/)** Based College Task management System.</br>
-**[Node Farm](https://github.com/Anmolnoor/nodefarm)** It is a website with just node js </br>
-**[Security](https://github.com/Anmolnoor/Security)** A Simple Login and Registration app with Implementing Various Encryptions Such as **_BcryptJS, OAuth, Hashing_**, etc.</br>
-**[Todo List](https://github.com/Anmolnoor/todolist)** A todo list with MongoDB database to store states </br>
-**[Daily Journal](https://github.com/Anmolnoor/Blog-with-Database)** Blog Application with **_MongoDB_** database on **_Express_** server.</br>
+**[_EJS and NodeJS + Express_](https://bgiet.onrender.com)** Based College Task management System.</br>
+**[Node Farm](https://node-farm-vwne.onrender.com)** It is a website with just node js </br>
+**[Security](https://security-syjk.onrender.com)** A Simple Login and Registration app with Implementing Various Encryptions Such as **_BcryptJS, OAuth, Hashing_**, etc.</br>
+**[Todo List](https://todo-list-with-db.onrender.com)** A todo list with MongoDB database to store states </br>
+**[Daily Journal](https://blog-with-database-41fd.onrender.com/)** Blog Application with **_MongoDB_** database on **_Express_** server.</br>
 **[News letter](https://github.com/Anmolnoor/Newsletter-Singup)** It is a newsletter with Mailchimp </br>
 **[Weather Project](https://github.com/Anmolnoor/weather-project)** app along with **_API_** from Open weather map.</br>
 **[Simon Game](https://anmolnoor.github.io/Simon-Game/)** It is a Simon game </br>
 **[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)** It is a Drumkit in Website </br>
 **[Dice Roll](https://anmolnoor.github.io/Dice_Roller/)** It is a Dice roller.</br>
-**[Tindog](anmolnoor.github.io/tindog/)** A tinder for dogs </br>
+**[Tindog](https://anmolnoor.me/TinDog/)** A tinder for dogs </br>
 **[Vim Cheatsheet](https://github.com/Anmolnoor/vimCS/blob/main/README.md)**</br>
 **[Markdown syntax Cheat sheet](https://github.com/Anmolnoor/markdownSCS/blob/main/README.md)**\
 
@@ -153,7 +153,7 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+![visitors](https://visitor-zzzzzzzzzzzzzzzzzzzzzzzzbadge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
