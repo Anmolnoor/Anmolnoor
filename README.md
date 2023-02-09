@@ -133,7 +133,7 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 <br/>
 <br/>
 
-<a href="https://github.com/Anmolnoor/github-readme-activity-graph"><img alt="Anmol Noor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmolnoor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Anmol_Noor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnmolNoor&bg_color=8ad6a3&color=2a322b&line=4f97e3&point=162315&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/> 
@@ -153,7 +153,7 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 
 
 
-![visitors](https://visitor-zzzzzzzzzzzzzzzzzzzzzzzzbadge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
