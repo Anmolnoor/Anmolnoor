@@ -1,33 +1,34 @@
-
-# **Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I am** [ANMOL NOOR](https://anmolnoor.github.io/website/) 
-
+<!--
 [<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/Anmolnoor)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anmolnoor59@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anmol-noor-47305013a)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/anmolnoor59)
+--> 
 
-# 🧍 *About me*:
+# Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, *About [Me](https://github.com/Anmolnoor)*:
 
-**I'm a self-motivated computer science engineer with a keen interest in coding.**
+**I'm Computer Engineer with a keen interest in Coding.**
 
-<!-- - 🔭 I’m currently working at **[Huddle 01](https://huddle01.com/)** -->
+<!-- - 🔭 I’m currently working at **[Dynamic Nexus Solutions](https://www.dynamicnexussolutions.com/)** -->
 
-- 🔭 I’m currently working on **MERN** | **Web3** | **Solana** | **webRTC** | **MediaSoup**
+- 💥 I'm Founder of **[Dynamic Nexus Solutions](https://www.dynamicnexussolutions.com/)** & **[Chain Commerce](https://github.com/Chain-Commerce)**
 
-- 🌱 I’m currently learning **Solana | Blockchain | webRTC**
+- 🔭 I’m currently working with **MERN** | **Web3** | **Solana** | **webRTC** | **MediaSoup** | **Astro** | **Nextjs**
+
+- 🌱 I’m currently learning **CI/CD**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Anmolnoor)**
 
-- 📫 How to reach me **anmolnoor59@gmail.com**
+- 📫 How to reach me **anmolnoor59@gmail.com** or book a meet on [Google Meet](https://cal.com/anmolnoor)
 
-- ⚡ Fun fact **I like VSCode**
+- ⚡ Fun fact I like **VSCode | Linux**
 
 # 🏫 *Education*:
 
-### **Bhai Gurdas Institute of Engineering and Technology, Sangrur.**</br>
-2018-2022 - Bachelor of Technology in Computer Science and Engineering.
+### Bachelor of Technology in Computer Science and Engineering.</br>
+2018-2022 - Bhai Gurdas Institute of Engineering and Technology, Sangrur.
 
 # ⚙️ *Skills*:
 
@@ -46,43 +47,43 @@
 
 # 🛠️ *My Experience*:
 
-**Frontend Engineer at [Huddle01](https://huddle01.com) - I have worked on frontend of [Huddle01](https://huddle01.com) website as well such as meeting rooms,
+- **Frontend Engineer at [Huddle01](https://huddle01.com) - I have worked on frontend of [Huddle01](https://huddle01.com) website as Frontend Engineer. Also got the opportunity to work on meeting rooms,
 lobby and alerts ... so on.**
 
-**React Native Intern at [Fortec Solution](https://fortecsolution.com/) - I have worked on Complaint Ticket Booking App of [Protocol Solutions](https://protocolsolution.com/). It was fully automated Ticket Generator using React-Native as Frontend and PHP based API. I have also work on App UI/UX.**
+- **React Native Intern at [Fortec Solution](https://fortecsolution.com/) - I have worked on Complaint Ticket Booking App of [Protocol Solutions](https://protocolsolution.com/). It was fully automated Ticket Generator using React-Native as Frontend and PHP based API. I have also work on App UI/UX.**
 
-**Team Lead at [SWPL]() - I have worked with team of 5 Developer. We worked on Two projects, which are Rural Paisa and Full Stop in MERN Stack.**
+- **Team Lead at [SWPL]() - I have worked with team of 5 Developer. We worked on Two projects, which are Rural Paisa and Full Stop in MERN Stack.**
 
-**Web-Developer Internship at [ALS](https://autumnleavessolutions.com/)  - I have complete my 1 month Internship which include 3 projects. Such as Single Page website(landing page), College ERP, E-commerce (ReactJS).**
+- **Web-Developer Internship at [ALS](https://autumnleavessolutions.com/)  - I have complete my 1 month Internship which include 3 projects. Such as Single Page website(landing page), College ERP, E-commerce (ReactJS).**
 
 
 
 # 💻 *Projects*:
 
-**[NFT Droper](http://nft-drop-gold.vercel.app/)** It is a NFT droper on Solana Chain </br>
-**[D-twitter](https://d-itter.netlify.app/#/)** It is a decentralised Twitter </br>
-**[wallet-dapp](https://6205df9cef9c0122a08aba3a--sleepy-galileo-ce19c5.netlify.app/)** It is a Solana wallet playground </br>
-**[Image-Portal](https://upbeat-bartik-f06847.netlify.app/)** It is a buildspace Solana IMG Portal Project </br>
-**[solana-riptide-leader-board](http://solana-riptide-leader-board.vercel.app/)** Leader board of the Solana riptide Hackathon **XD** </br>
-**[Flashback](https://github.com/Anmolnoor/flashback)** RealTime Social Media WebAPP with **_MERN_** along with **_uploading posts, like , share , delete._**</br>
-**[Next Events](https://next-event-livid.vercel.app/)** It is a Nextjs application with all benefits of next js </br>
-**[Meetup](https://meetup-smoky.vercel.app/)** It is a React application with all benefits of Reactjs </br>
-**[Next Routing](https://next-routing-ebon.vercel.app/)** It is a Nextjs application for testing routing </br>
-**[natours](https://natours-ej3e.onrender.com)** It is a **Full Backend** for a tours website with full security </br>
-**[Reservation System](https://reservation-system-ten.vercel.app/)** It is a reservation system in TS </br>
-**[_EJS and NodeJS + Express_](https://bgiet.onrender.com)** Based College Task management System.</br>
-**[Node Farm](https://node-farm-vwne.onrender.com)** It is a website with just node js </br>
-**[Security](https://security-syjk.onrender.com)** A Simple Login and Registration app with Implementing Various Encryptions Such as **_BcryptJS, OAuth, Hashing_**, etc.</br>
-**[Todo List](https://todo-list-with-db.onrender.com)** A todo list with MongoDB database to store states </br>
-**[Daily Journal](https://blog-with-database-41fd.onrender.com/)** Blog Application with **_MongoDB_** database on **_Express_** server.</br>
-**[News letter](https://github.com/Anmolnoor/Newsletter-Singup)** It is a newsletter with Mailchimp </br>
-**[Weather Project](https://github.com/Anmolnoor/weather-project)** app along with **_API_** from Open weather map.</br>
-**[Simon Game](https://anmolnoor.github.io/Simon-Game/)** It is a Simon game </br>
-**[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)** It is a Drumkit in Website </br>
-**[Dice Roll](https://anmolnoor.github.io/Dice_Roller/)** It is a Dice roller.</br>
-**[Tindog](https://anmolnoor.me/TinDog/)** A tinder for dogs </br>
-**[Vim Cheatsheet](https://github.com/Anmolnoor/vimCS/blob/main/README.md)**</br>
-**[Markdown syntax Cheat sheet](https://github.com/Anmolnoor/markdownSCS/blob/main/README.md)**\
+- **[NFT Droper](http://nft-drop-gold.vercel.app/)** It is a NFT droper on Solana Chain </br>
+- **[D-twitter](https://d-itter.netlify.app/#/)** It is a decentralised Twitter </br>
+- **[wallet-dapp](https://6205df9cef9c0122a08aba3a--sleepy-galileo-ce19c5.netlify.app/)** It is a Solana wallet playground </br>
+- **[Image-Portal](https://upbeat-bartik-f06847.netlify.app/)** It is a buildspace Solana IMG Portal Project </br>
+- **[solana-riptide-leader-board](http://solana-riptide-leader-board.vercel.app/)** Leader board of the Solana riptide Hackathon **XD** </br>
+- **[Flashback](https://github.com/Anmolnoor/flashback)** RealTime Social Media WebAPP with **_MERN_** along with **_uploading posts, like , share , delete._**</br>
+- **[Next Events](https://next-event-livid.vercel.app/)** It is a Nextjs application with all benefits of next js </br>
+- **[Meetup](https://meetup-smoky.vercel.app/)** It is a React application with all benefits of Reactjs </br>
+- **[Next Routing](https://next-routing-ebon.vercel.app/)** It is a Nextjs application for testing routing </br>
+- **[natours](https://natours-ej3e.onrender.com)** It is a **Full Backend** for a tours website with full security </br>
+- **[Reservation System](https://reservation-system-ten.vercel.app/)** It is a reservation system in TS </br>
+- **[_EJS and NodeJS + Express_](https://bgiet.onrender.com)** Based College Task management System.</br>
+- **[Node Farm](https://node-farm-vwne.onrender.com)** It is a website with just node js </br>
+- **[Security](https://security-syjk.onrender.com)** A Simple Login and Registration app with Implementing Various Encryptions Such as **_BcryptJS, OAuth, Hashing_**, etc.</br>
+- **[Todo List](https://todo-list-with-db.onrender.com)** A todo list with MongoDB database to store states </br>
+- **[Daily Journal](https://blog-with-database-41fd.onrender.com/)** Blog Application with **_MongoDB_** database on **_Express_** server.</br>
+- **[News letter](https://github.com/Anmolnoor/Newsletter-Singup)** It is a newsletter with Mailchimp </br>
+- **[Weather Project](https://github.com/Anmolnoor/weather-project)** app along with **_API_** from Open weather map.</br>
+- **[Simon Game](https://anmolnoor.github.io/Simon-Game/)** It is a Simon game </br>
+- **[Drum Kit](https://anmolnoor.github.io/Drum_Kit/)** It is a Drumkit in Website </br>
+- **[Dice Roll](https://anmolnoor.github.io/Dice_Roller/)** It is a Dice roller.</br>
+- **[Tindog](https://anmolnoor.me/TinDog/)** A tinder for dogs </br>
+- **[Vim Cheatsheet](https://github.com/Anmolnoor/vimCS/blob/main/README.md)**</br>
+- **[Markdown syntax Cheat sheet](https://github.com/Anmolnoor/markdownSCS/blob/main/README.md)**\
 
 Complaint Ticket Booking Project with **_React Native_** for Protocol Solutions.</br>
 A Login and Registration with **_JWT Tokens_** with Private routing and access control.</br>
