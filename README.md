@@ -47,8 +47,7 @@
 
 # 🛠️ *My Experience*:
 
-- **Frontend Engineer at [Huddle01](https://huddle01.com) - I have worked on frontend of [Huddle01](https://huddle01.com) website as Frontend Engineer. Also got the opportunity to work on meeting rooms,
-lobby and alerts ... so on.**
+- **Frontend Engineer at [Huddle01](https://huddle01.com) - I have worked on frontend of [Huddle01](https://huddle01.com) website as Frontend Engineer. Also got the opportunity to work with webRTC, Mediasuop, Sockets.**
 
 - **React Native Intern at [Fortec Solution](https://fortecsolution.com/) - I have worked on Complaint Ticket Booking App of [Protocol Solutions](https://protocolsolution.com/). It was fully automated Ticket Generator using React-Native as Frontend and PHP based API. I have also work on App UI/UX.**
 
