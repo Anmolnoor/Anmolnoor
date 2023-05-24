@@ -40,7 +40,7 @@
 - Front-End with React, Next 
 - Back-End with NodeJS, Express, Axios 
 - Database Such as MongoDb, MySQL, Firebase 
-- CSS FrameWork BootStrap, Tailwind, Material_UI 
+- CSS FrameWork BootStrap, Tailwind, Material_UI, Mantine
 - UI/UX Designing with Figma, AdobeXD, Photoshop 
 - Linux User & Git/GitHub 
 - Problem Solving & Interpersonal Skill 
