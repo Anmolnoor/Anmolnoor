@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Anmolnoor)**
 
-- 📫 How to reach me **anmolnoor59@gmail.com** or book a meet on [Google Meet](https://cal.com/anmolnoor)
+- 📫 How to reach me **anmolnoor59@gmail.com** or book a [Meet](https://cal.com/anmolnoor)
 
 - ⚡ Fun fact I like **VSCode | Linux**
 
