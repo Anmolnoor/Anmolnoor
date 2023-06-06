@@ -133,7 +133,7 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 <br/>
 <br/>
 
-[![Anmol_Noor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnmolNoor&bg_color=8ad6a3&color=2a322b&line=4f97e3&point=162315&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anmol_Noor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmolNoor&bg_color=8ad6a3&color=2a322b&line=4f97e3&point=162315&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/> 
