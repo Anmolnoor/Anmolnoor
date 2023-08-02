@@ -153,7 +153,7 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+![Not working!!](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
