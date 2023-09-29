@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Anmolnoor)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://anmolnoor.com)**
 
 - 📫 How to reach me **anmolnoor59@gmail.com** or book a [Meet](https://cal.com/anmolnoor)
 
