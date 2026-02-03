@@ -90,7 +90,7 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 # 🔨 *Tech Stack I am Familiar With*:
 
 <p align="center" >
-<br/>  <a href="https://github.com/Anmolnoor/github-readme-stats"><img alt="Anmol Noor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolnoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!-- <br/>  <a href="https://github.com/Anmolnoor/github-readme-stats"><img alt="Anmol Noor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolnoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -120,15 +120,15 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 
 # 🏆 *Github Status*
 <!--&theme=dark  -->
-<img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true" width="48%" align="right" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true" width="48%" align="right" > -->
 <!-- &theme=dark -->
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor" width="48%" >
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor" width="48%" > -->
 
-<div align="center">
+<!-- <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=anmolnoor&margin-w=15&column=7)](https://github.com/anmolnoor/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=anmolnoor&margin-w=15&column=7)](https://github.com/anmolnoor/github-profile-trophy)
 
-</div>
+</div> -->
 
 <br/>
 <br/>
@@ -149,11 +149,12 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
  -->
 
 
-![Snake animation](https://github.com/Anmolnoor/Anmolnoor/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Anmolnoor/Anmolnoor/output/snake/github-contribution-grid-snake.svg)
 
 
 
-![Not working!!](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+<!-- If you switch services in the future, check for a 'base' or 'offset' parameter to carry over your count (Current base: 4265) -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=Anmolnoor&label=visitors&color=0e75b6&style=flat&base=4265)
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
