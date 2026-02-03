@@ -90,7 +90,7 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 # 🔨 *Tech Stack I am Familiar With*:
 
 <p align="center" >
-<br/>  <a href="https://github.com/Anmolnoor/github-readme-stats"><img alt="Anmol Noor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolnoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!-- <br/>  <a href="https://github.com/Anmolnoor/github-readme-stats"><img alt="Anmol Noor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolnoor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -120,15 +120,15 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
 
 # 🏆 *Github Status*
 <!--&theme=dark  -->
-<img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true" width="48%" align="right" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=Anmolnoor&show_icons=true&hide_border=true" width="48%" align="right" > -->
 <!-- &theme=dark -->
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor" width="48%" >
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolnoor" width="48%" > -->
 
-<div align="center">
+<!-- <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=anmolnoor&margin-w=15&column=7)](https://github.com/anmolnoor/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=anmolnoor&margin-w=15&column=7)](https://github.com/anmolnoor/github-profile-trophy)
 
-</div>
+</div> -->
 
 <br/>
 <br/>
