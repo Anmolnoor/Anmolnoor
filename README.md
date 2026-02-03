@@ -149,11 +149,12 @@ A Login and Registration with **_JWT Tokens_** with Private routing and access c
  -->
 
 
-![Snake animation](https://github.com/Anmolnoor/Anmolnoor/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Anmolnoor/Anmolnoor/output/snake/github-contribution-grid-snake.svg)
 
 
 
-![Not working!!](https://visitor-badge.laobi.icu/badge?page_id=AnmolNoor.AnmolNoor)
+<!-- If you switch services in the future, check for a 'base' or 'offset' parameter to carry over your count (Current base: 4265) -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=Anmolnoor&label=visitors&color=0e75b6&style=flat&base=4265)
 <a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
