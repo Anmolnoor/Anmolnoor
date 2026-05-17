@@ -36,8 +36,42 @@ More product work: Amend Notes, [Vendro](https://www.anmolnoor.com/vendro), and 
 
 ## Stack
 
-TypeScript, React, Next.js, Node.js, Express, Python, Shell, PostgreSQL, MongoDB, Prisma, Tailwind CSS, WebRTC, Socket.io, Solana, Git, Linux, Proxmox, Prometheus, and Grafana.
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="CLI" src="https://img.shields.io/badge/CLI-111111?style=for-the-badge&logo=windowsterminal&logoColor=white">
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
+  <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111">
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+</p>
 
 ## Contact
 
-The fastest way to reach me is [email](mailto:anmolnoor59@gmail.com) or [Cal.com](https://cal.com/anmolnoor). You can also find me on [GitHub](https://github.com/Anmolnoor), [LinkedIn](https://www.linkedin.com/in/anmolnoor/), and [X](https://twitter.com/noor_anmol).
+<p>
+  <a href="https://www.anmolnoor.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.anmolnoor.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=rss&logoColor=white"></a>
+  <a href="mailto:anmolnoor59@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://cal.com/anmolnoor"><img alt="Book a call" src="https://img.shields.io/badge/Book_a_call-111111?style=for-the-badge&logo=caldotcom&logoColor=white"></a>
+  <a href="https://github.com/Anmolnoor"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anmolnoor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/noor_anmol"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
+
+![Snake animation](https://raw.githubusercontent.com/Anmolnoor/Anmolnoor/output/snake/github-contribution-grid-snake.svg)
+
+
+<!-- If you switch services in the future, check for a 'base' or 'offset' parameter to carry over your count (Current base: 4265) -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=Anmolnoor&label=visitors&color=0e75b6&style=flat&base=4265)
+<a href="https://github.com/Anmolnoor?tab=followers"><img src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social" alt="GitHub Badge"></a>
