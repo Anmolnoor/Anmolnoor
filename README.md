@@ -4,7 +4,15 @@ Software engineer building full-stack applications, real-time systems, developer
 
 I care about clean architecture, performance, practical automation, and developer experience. In 2026, my public work is centered on coding agents, governed tool execution, CLI workflows, and homelab infrastructure.
 
-[Portfolio](https://www.anmolnoor.com/) | [Blog](https://www.anmolnoor.com/blog) | [GitHub](https://github.com/Anmolnoor) | [Book a call](https://cal.com/anmolnoor) | [Email](mailto:anmolnoor59@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anmolnoor/) | [X](https://twitter.com/noor_anmol)
+<p align="center">
+  <a href="https://cal.com/anmolnoor"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-Cal.com-22C55E?style=for-the-badge&logo=caldotcom&logoColor=white"></a>
+  <a href="https://www.anmolnoor.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-anmolnoor.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.anmolnoor.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Writing-FF5A1F?style=for-the-badge&logo=rss&logoColor=white"></a>
+  <a href="https://github.com/Anmolnoor"><img alt="GitHub Anmolnoor" src="https://img.shields.io/badge/GitHub-Anmolnoor-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:anmolnoor59@gmail.com"><img alt="Email anmolnoor59" src="https://img.shields.io/badge/Email-anmolnoor59-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anmolnoor/"><img alt="LinkedIn Anmol Noor" src="https://img.shields.io/badge/LinkedIn-Anmol%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/noor_anmol"><img alt="X noor_anmol" src="https://img.shields.io/badge/X-noor__anmol-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
 
 ## Now
 
@@ -22,7 +30,6 @@ I care about clean architecture, performance, practical automation, and develope
 | [agent-policy-gate](https://github.com/Anmolnoor/agent-policy-gate) | Small policy, review, and audit primitives for gating agent tool calls. |
 | [scripts](https://github.com/Anmolnoor/scripts) | Personal shell scripts and setup shortcuts for a consistent dev environment. |
 | [claude-dotfiles](https://github.com/Anmolnoor/claude-dotfiles) | Portable Claude Code setup for quickly rebuilding an agent-ready machine. |
-| [my-portfolio](https://github.com/Anmolnoor/my-portfolio) | Source for my current portfolio, blog, project list, and public writing. |
 
 More product work: Amend Notes, [Vendro](https://www.anmolnoor.com/vendro), and [NFT Dropper](https://nft-drop-gold.vercel.app/). Earlier learning projects and experiments are listed on my [projects page](https://www.anmolnoor.com/projects) and [GitHub profile](https://github.com/Anmolnoor).
 
@@ -55,18 +62,6 @@ More product work: Amend Notes, [Vendro](https://www.anmolnoor.com/vendro), and 
   <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-</p>
-
-## Connect
-
-<p>
-  <a href="https://twitter.com/noor_anmol"><img alt="X noor_anmol" src="https://img.shields.io/badge/X-noor__anmol-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://github.com/Anmolnoor"><img alt="GitHub Anmolnoor" src="https://img.shields.io/badge/GitHub-Anmolnoor-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anmolnoor/"><img alt="LinkedIn Anmol Noor" src="https://img.shields.io/badge/LinkedIn-Anmol%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.anmolnoor.com/"><img alt="anmolnoor.com" src="https://img.shields.io/badge/anmolnoor.com-Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.anmolnoor.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Writing-FF5A1F?style=for-the-badge&logo=rss&logoColor=white"></a>
-  <a href="https://cal.com/anmolnoor"><img alt="Cal.com anmolnoor" src="https://img.shields.io/badge/Cal.com-anmolnoor-111111?style=for-the-badge&logo=caldotcom&logoColor=white"></a>
-  <a href="mailto:anmolnoor59@gmail.com"><img alt="Email anmolnoor59" src="https://img.shields.io/badge/Email-anmolnoor59-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Anmolnoor/Anmolnoor/output/snake/github-contribution-grid-snake.svg)
