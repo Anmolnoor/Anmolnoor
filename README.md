@@ -57,16 +57,16 @@ More product work: Amend Notes, [Vendro](https://www.anmolnoor.com/vendro), and 
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 </p>
 
-## Contact
+## Connect
 
 <p>
-  <a href="https://www.anmolnoor.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.anmolnoor.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=rss&logoColor=white"></a>
-  <a href="mailto:anmolnoor59@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://cal.com/anmolnoor"><img alt="Book a call" src="https://img.shields.io/badge/Book_a_call-111111?style=for-the-badge&logo=caldotcom&logoColor=white"></a>
-  <a href="https://github.com/Anmolnoor"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anmolnoor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/noor_anmol"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://twitter.com/noor_anmol"><img alt="X noor_anmol" src="https://img.shields.io/badge/X-noor__anmol-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://github.com/Anmolnoor"><img alt="GitHub Anmolnoor" src="https://img.shields.io/badge/GitHub-Anmolnoor-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anmolnoor/"><img alt="LinkedIn Anmol Noor" src="https://img.shields.io/badge/LinkedIn-Anmol%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.anmolnoor.com/"><img alt="anmolnoor.com" src="https://img.shields.io/badge/anmolnoor.com-Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.anmolnoor.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Writing-FF5A1F?style=for-the-badge&logo=rss&logoColor=white"></a>
+  <a href="https://cal.com/anmolnoor"><img alt="Cal.com anmolnoor" src="https://img.shields.io/badge/Cal.com-anmolnoor-111111?style=for-the-badge&logo=caldotcom&logoColor=white"></a>
+  <a href="mailto:anmolnoor59@gmail.com"><img alt="Email anmolnoor59" src="https://img.shields.io/badge/Email-anmolnoor59-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Anmolnoor/Anmolnoor/output/snake/github-contribution-grid-snake.svg)
