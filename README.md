@@ -16,18 +16,22 @@ I care about clean architecture, performance, practical automation, and develope
 
 ## Now
 
-- Building [Foundation CLI](https://www.anmolnoor.com/blog/foundation-cli), a public coding-agent and developer-tooling project.
+- Building [skep](https://github.com/Anmolnoor/skep), a local-first supervisor for AI coding agents: sandboxed workers, independent re-verification, and human approval before anything lands. MIT, on PyPI.
+- Continuing [Foundation CLI](https://www.anmolnoor.com/blog/foundation-cli), a local-first, shell-native coding agent built in public.
 - Open-sourcing governed agent infrastructure through [Beekeeper](https://github.com/Anmolnoor/beekeeper) and [agent-policy-gate](https://github.com/Anmolnoor/agent-policy-gate).
-- Running and documenting a homelab foundation with Proxmox, Pi-hole, shared storage, monitoring, dashboards, and automation.
+- Running and documenting a homelab foundation with Proxmox, Pi-hole, Tailscale, shared storage, monitoring, dashboards, and automation.
 - Continuing product work across full-stack apps, real-time systems, Web3 experiments, and developer workflows.
 
 ## Selected Work
 
 | Project | Focus |
 | --- | --- |
-| [fcli](https://github.com/Anmolnoor/fcli) | Foundation CLI: a coding-agent/dev-tooling project built in public. |
+| [skep](https://github.com/Anmolnoor/skep) | Local-first supervisor for AI coding agents: sandboxed workers, independent verification, human approval before anything lands. |
+| [fcli](https://github.com/Anmolnoor/fcli) | Foundation CLI: a local-first, shell-native coding agent built in public. |
 | [beekeeper](https://github.com/Anmolnoor/beekeeper) | Governed multi-agent runtime and contribution model for safer agent workflows. |
 | [agent-policy-gate](https://github.com/Anmolnoor/agent-policy-gate) | Small policy, review, and audit primitives for gating agent tool calls. |
+| [authwapi](https://github.com/Anmolnoor/authwapi) | Drop-in authentication-as-a-service API built with TypeScript, Express, and MongoDB. |
+| [hold-it](https://github.com/Anmolnoor/hold-it) | macOS menu bar utility for drag-and-drop file collection shelves. |
 | [scripts](https://github.com/Anmolnoor/scripts) | Personal shell scripts and setup shortcuts for a consistent dev environment. |
 | [claude-dotfiles](https://github.com/Anmolnoor/claude-dotfiles) | Portable Claude Code setup for quickly rebuilding an agent-ready machine. |
 
@@ -35,11 +39,11 @@ More product work: Amend Notes, [Vendro](https://www.anmolnoor.com/vendro), and 
 
 ## Writing
 
-- [Why I Open-Sourced Beekeeper Behind a Wall - and What's Inside It](https://www.anmolnoor.com/blog/beekeeper)
-- [I'm building a coding agent in public - and the lessons start before the code](https://www.anmolnoor.com/blog/foundation-cli)
-- [My Homelab Current Setup](https://www.anmolnoor.com/blog/homelab-current-setup)
-- [A terminal that does the boring parts for you](https://www.anmolnoor.com/blog/scripts)
-- [Hello, World - Why I'm Starting a Blog](https://www.anmolnoor.com/blog/hello-world)
+- [I'm Live - Come Build with Me](https://www.anmolnoor.com/blog/skep-is-live)
+- [The Queen, the Workers, and the Group Policy Object](https://www.anmolnoor.com/blog/beekeeper-fcli-skep-journey)
+- [Meet skep - the agent supervisor running my portfolio](https://www.anmolnoor.com/blog/skep-agent-supervisor)
+- [Auto-Updating Docker Containers in My Homelab with Watchtower](https://www.anmolnoor.com/blog/auto-updating-docker-containers-watchtower)
+- [Testing FCLI as a Real Agent Kernel](https://www.anmolnoor.com/blog/testing-fcli-as-a-real-agent-kernel)
 
 ## Stack
 
@@ -50,7 +54,9 @@ More product work: Amend Notes, [Vendro](https://www.anmolnoor.com/vendro), and 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img alt="CLI" src="https://img.shields.io/badge/CLI-111111?style=for-the-badge&logo=windowsterminal&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
@@ -59,7 +65,10 @@ More product work: Amend Notes, [Vendro](https://www.anmolnoor.com/vendro), and 
   <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111">
   <img alt="macOS" src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 </p>
