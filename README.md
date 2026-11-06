@@ -1,3 +1,5 @@
+
+
 # Anmol Noor
 
 Software engineer building full-stack applications, real-time systems, developer tools, and self-hosted infrastructure.
@@ -9,7 +11,7 @@ I care about clean architecture, performance, practical automation, and develope
   <a href="https://www.anmolnoor.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-anmolnoor.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.anmolnoor.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Writing-FF5A1F?style=for-the-badge&logo=rss&logoColor=white"></a>
   <a href="https://github.com/Anmolnoor"><img alt="GitHub Anmolnoor" src="https://img.shields.io/badge/GitHub-Anmolnoor-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:anmolnoor59@gmail.com"><img alt="Email anmolnoor59" src="https://img.shields.io/badge/Email-anmolnoor59-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:anmolnoor59@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/anmolnoor/"><img alt="LinkedIn Anmol Noor" src="https://img.shields.io/badge/LinkedIn-Anmol%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/noor_anmol"><img alt="X noor_anmol" src="https://img.shields.io/badge/X-noor__anmol-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
