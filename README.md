@@ -46,7 +46,7 @@ If you’re hiring for software engineering work across full-stack products, sys
 - [The Queen, the Workers, and the Group Policy Object](https://www.anmolnoor.com/blog/beekeeper-fcli-skep-journey)
 - [Meet skep — the agent supervisor running my portfolio](https://www.anmolnoor.com/blog/skep-agent-supervisor)
 - [Testing FCLI as a Real Agent Kernel](https://www.anmolnoor.com/blog/testing-fcli-as-a-real-agent-kernel)
-- [My Homelab Current Setup](https://www.anmolnoor.com/blog)
+- [My Homelab Current Setup](https://www.anmolnoor.com/blog/homelab-current-setup)
 
 ## Tools and technologies
 
