@@ -1,6 +1,6 @@
 # GitHub profile context
 
-Updated: 2026-11-20
+Updated: 2026-11-22
 
 This file records the public sources and editorial choices behind the profile README. It is here to make future edits easier and keep the profile grounded in Anmol's own published material.
 
@@ -18,6 +18,7 @@ This file records the public sources and editorial choices behind the profile RE
 - Featured public project repositories: [skep](https://github.com/Anmolnoor/skep), [Foundation CLI](https://github.com/Anmolnoor/fcli), [Beekeeper](https://github.com/Anmolnoor/beekeeper), [agent-policy-gate](https://github.com/Anmolnoor/agent-policy-gate), [AuthWAPI](https://github.com/Anmolnoor/authwapi), and [HoldIt](https://github.com/Anmolnoor/hold-it).
 - Added 2026-11-20: [skep releases](https://github.com/Anmolnoor/skep/releases) (v1.1.0 to v1.5.0), [skep on PyPI](https://pypi.org/project/skep/), the [skep docs site](https://skep.anmolnoor.com/), merged PRs to [Greenhat-Security/GreenGateway](https://github.com/Greenhat-Security/GreenGateway/pulls?q=author%3AAnmolnoor+is%3Amerged), and the READMEs of [a2j](https://github.com/Anmolnoor/a2j), [agent-task-contract](https://github.com/Anmolnoor/agent-task-contract), and [skep-benchmarks](https://github.com/Anmolnoor/skep-benchmarks).
 - Added 2026-11-20 (later): the [my-ai-ide](https://github.com/Anmolnoor/my-ai-ide) README.
+- Added 2026-11-22: [skep v1.6.0 release](https://github.com/Anmolnoor/skep/releases/tag/v1.6.0) and the updated [AuthWAPI](https://github.com/Anmolnoor/authwapi) README; unlinked non-resolving `amendnotes.com`; restored the contribution snake, visitor counter (`base=4265`), and GitHub followers badge.
 
 The account repository inventory was also scanned for breadth. The README emphasizes projects highlighted on the public portfolio and profile; it does not claim that every repository received a source-level review.
 

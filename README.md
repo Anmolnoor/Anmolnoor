@@ -16,13 +16,15 @@ My work has also taken me through real-time applications, authentication, Web3, 
 
 ## What I’m working on now
 
-- [skep](https://github.com/Anmolnoor/skep): a local-first supervisor for AI coding agents, with sandboxed workers, independent re-verification, and human approval. It’s shipped: MIT-licensed, [on PyPI](https://pypi.org/project/skep/) (`pip install skep`), at [v1.5.0](https://github.com/Anmolnoor/skep/releases), with docs at [skep.anmolnoor.com](https://skep.anmolnoor.com/). Recent releases added:
+- [skep](https://github.com/Anmolnoor/skep): a local-first supervisor for AI coding agents, with sandboxed workers, independent re-verification, and human approval. It’s shipped: MIT-licensed, [on PyPI](https://pypi.org/project/skep/) (`pip install skep`), at [v1.6.0](https://github.com/Anmolnoor/skep/releases), with docs at [skep.anmolnoor.com](https://skep.anmolnoor.com/). Recent releases added:
+  - running skep from your phone as one conversation across Telegram, Discord, and Slack — including HIGH-risk approvals and `/update`;
   - governing ACP agents running inside other clients;
   - a policy you can browse like Group Policy, with a plain explanation for each rule;
   - schedules that can only narrow what their workers may do;
   - a Telegram alarm when an email carries an injection attempt;
   - research, YouTube, and a daily mail summary that work from your phone.
 - [my-ai-ide](https://github.com/Anmolnoor/my-ai-ide): my IDE for the AI era. It isn't an editor: it's T3 Code running Claude Code and Codex side by side, plugins and skills that set how they plan, code, review, and ship, a lockfile that records the setup, and a weekly task that checks for drift and proposes upgrades. It also has the skills I wrote, with hard gates like no code before a failing test.
+- [AuthWAPI](https://github.com/Anmolnoor/authwapi): WorkOS-style self-hosted auth for localhost — one `docker run`, one portable data folder, hosted sign-in/sign-up pages, passkeys, 2FA, OAuth 2.1/OIDC, organizations, and a built-in admin MCP server (early development).
 - [Foundation CLI](https://github.com/Anmolnoor/fcli): a shell-native coding agent built in public.
 - [Beekeeper](https://github.com/Anmolnoor/beekeeper), [agent-policy-gate](https://github.com/Anmolnoor/agent-policy-gate), and [agent-task-contract](https://github.com/Anmolnoor/agent-task-contract): ways to govern agent tools, review their work, keep useful audit trails, and hand tasks between a supervisor and disposable workers.
 - A homelab of 12 services on Proxmox, with Tailscale, shared storage, monitoring, and automation. Two laptops share the agent work and run tests in parallel. Write-ups: [current setup](https://www.anmolnoor.com/blog/homelab-current-setup), [Tailscale remote access](https://www.anmolnoor.com/blog/tailscale-homelab-remote-access), and [auto-updating containers with Watchtower](https://www.anmolnoor.com/blog/auto-updating-docker-containers-watchtower).
@@ -32,16 +34,17 @@ My work has also taken me through real-time applications, authentication, Web3, 
 | Project | What it does |
 | --- | --- |
 | [skep](https://github.com/Anmolnoor/skep) | Supervises AI coding agents with sandboxing, verification, and approval gates. |
+| [my-ai-ide](https://github.com/Anmolnoor/my-ai-ide) | T3 Code + Claude Code + Codex setup with plugins, skills, lockfile, and weekly drift checks. |
 | [Foundation CLI](https://github.com/Anmolnoor/fcli) | A local-first, shell-native coding agent and engineering workflow experiment. |
 | [Beekeeper](https://github.com/Anmolnoor/beekeeper) | A governed runtime for multi-agent workflows. |
 | [agent-policy-gate](https://github.com/Anmolnoor/agent-policy-gate) | Policy, review, and audit primitives for agent tool calls. |
-| [AuthWAPI](https://github.com/Anmolnoor/authwapi) | An authentication API built with TypeScript, Express, and MongoDB. |
+| [AuthWAPI](https://github.com/Anmolnoor/authwapi) | WorkOS-style self-hosted auth for localhost with hosted pages, passkeys, 2FA, OAuth 2.1/OIDC, organizations, and an admin MCP server. |
 | [HoldIt](https://github.com/Anmolnoor/hold-it) | A macOS menu bar utility for collecting files with drag and drop. |
 | [a2j](https://github.com/Anmolnoor/a2j) | A Chrome extension and local Python service that tailor resumes and cover letters to a job page. |
 | [skep-benchmarks](https://github.com/Anmolnoor/skep-benchmarks) | A benchmark suite for LLM coding on realistic software engineering tasks. |
 | [claude-dotfiles](https://github.com/Anmolnoor/claude-dotfiles) and [scripts](https://github.com/Anmolnoor/scripts) | A portable Claude Code setup and shell scripts for the same dev environment on every machine. |
 
-I’ve also built products including [Amend Notes](https://amendnotes.com/) and [Vendro](https://www.anmolnoor.com/vendro), plus experiments in real-time software and Solana. The [projects page](https://www.anmolnoor.com/projects) has more, including older learning projects.
+I’ve also built products including Amend Notes and [Vendro](https://www.anmolnoor.com/vendro), plus experiments in real-time software and Solana. The [projects page](https://www.anmolnoor.com/projects) has more, including older learning projects.
 
 ## Open source contributions
 
@@ -69,5 +72,13 @@ More on [the blog](https://www.anmolnoor.com/blog).
 TypeScript · React · Next.js · Astro · Node.js · Python · Rust · Swift · PostgreSQL · MongoDB · WebRTC · Solana · Docker · Proxmox · Tailscale · Prometheus · Grafana · Ollama · Claude Code
 
 ---
+
+![Snake animation](https://raw.githubusercontent.com/Anmolnoor/Anmolnoor/output/snake/github-contribution-grid-snake.svg)
+
+<!-- If you switch services in the future, check for a 'base' or 'offset' parameter to carry over your count (Current base: 4265) -->
+<p align="center">
+  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Anmolnoor&label=visitors&color=0e75b6&style=flat&base=4265">
+  <a href="https://github.com/Anmolnoor?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Anmolnoor?label=Followers&style=social"></a>
+</p>
 
 Profile sources and editorial notes: [PROFILE_CONTEXT.md](PROFILE_CONTEXT.md)
